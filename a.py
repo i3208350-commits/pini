@@ -1,2 +1,7 @@
-print("123")
-prubt("tftft")
+def add(a, b):
+    """adds two numbers"""
+    return a + b
+
+def subtract(a,b) :
+    """subtracts two numbers"""
+    return a - b
