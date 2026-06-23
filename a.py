@@ -19,3 +19,4 @@ print(f"10 - 4 = {result2}")
 def multiply( a,b):
     """Multiplies two numbers"""
     return a * b
+print("ggg")
